@@ -9,4 +9,4 @@ Wrzesień 2020r.
 
 
 <!--NAVIGATION-->
-### [Spis Treści](https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/notebooks/Praca_Dyplomowa_Tomasz_Tarabasz.ipynb)
+### [Spis Treści](https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/blob/master/notebooks/Praca_Dyplomowa_Tomasz_Tarabasz.ipynb)
