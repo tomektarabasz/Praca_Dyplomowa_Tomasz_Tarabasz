@@ -1,5 +1,5 @@
 [Praca Dyplomowa GSN PW](notebooks/Praca_Dyplomowa_Tomasz_Tarabasz.ipynb)
-# ["Analiza problemu reidentyfikacji obektów z wykorzystaniem głębokich sieci neuronowych."](notebooks/Praca_Dyplomowa_Tomasz_Tarabasz.ipynb)
+# ["Analiza problemu reidentyfikacji obektów z wykorzystaniem głębokich sieci neuronowych."](notebooks/PD_spis_tresci.ipynb)
 
 Praca została przygotowana przez mgr. inż Tomasza Tarabasza<br>
 pod nadzorem mgr. inż Grzegorza Gwardysa<br>
@@ -9,4 +9,4 @@ Wrzesień 2020r.
 
 
 <!--NAVIGATION-->
-### [Spis Treści](https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/notebooks/Praca_Dyplomowa_Tomasz_Tarabasz.ipynb)
+### [Spis Treści](https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/notebooks/PD_spis_tresci.ipynb)
