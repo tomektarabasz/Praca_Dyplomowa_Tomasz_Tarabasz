@@ -5,7 +5,9 @@ Praca została przygotowana przez mgr. inż Tomasza Tarabasza<br>
 pod nadzorem mgr. inż Grzegorza Gwardysa<br>
 Wrzesień 2020r.
 <br><br>
-![Przykład detekcji](https://github.com/DarekGit/FACES_DNN/blob/master/Figures/Smieszna%20detekcja.png)
+<img src="https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/blob/master/img/Front1.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/blob/master/img/Front2.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/tomektarabasz/Praca_Dyplomowa_Tomasz_Tarabasz/blob/master/img/Front3.png?raw=true" alt="drawing" width="200"/>
 
 
 <!--NAVIGATION-->
